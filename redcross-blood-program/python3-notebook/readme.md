@@ -1,1 +1,5 @@
-Add any Python libraries to requirements.txt and build new image from Dockerfile
+This folder has the Python notebook docker files for DKSG's work with the Red Cross Blood Programme.
+
+Events:
+
+* April 2017, DataDive
